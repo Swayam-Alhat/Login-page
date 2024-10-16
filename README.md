@@ -1,7 +1,4 @@
-# Login-page
-## Responsive page Using Tailwind css
-
-**Documentation for cloning this Project**
+# Documentation for cloning this Project
 
 Before you begin, make sure you have the following installed:
 - [Tailwind css](https://tailwindcss.com/docs/installation) (by tailwind css CLI steps)
